@@ -83,6 +83,7 @@ The workflow includes:
 
 ## Folder Structure
 
+```
 1_DATASET/
 ├── RAW_DATA/
 │   └── car_prices.csv
@@ -98,6 +99,7 @@ The workflow includes:
 ├── 2_Brand_&_Model_Analysis.png
 ├── 3_Pricing_Analysis.png
 └── 4_Regional_Analysis.png
+```
 
 ---
 
