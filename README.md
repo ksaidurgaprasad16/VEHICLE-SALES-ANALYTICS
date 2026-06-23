@@ -101,6 +101,15 @@ The workflow includes:
 
 ---
 
+## Dataset Source
+
+- Raw Dataset: [Vehicle Sales Data on Kaggle] (https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data)
+- Note: Raw dataset (car_prices.csv) is not included in this repo due to file size (86MB).
+- Cleaned dataset (Vehicle_Sales_Cleaned.csv) is also excluded due to size (60MB).
+- Download the raw dataset from Kaggle and run the SQL cleaning script to reproduce the cleaned data.
+
+---
+
 ## Dashboard Screenshots
 
 ### Sales Overview
